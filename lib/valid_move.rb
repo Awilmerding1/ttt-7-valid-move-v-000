@@ -1,7 +1,7 @@
 def valid_move?(board, index)
   if position_taken?(board, index)
     return false
-  elsif board[index] == 
+  elsif board[index] 
   return true 
 end
 end
