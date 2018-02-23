@@ -19,4 +19,3 @@ def position_taken?(board, index)
 end
 end
 
-valid_move?(["O", "O", "O", "O", "O", "O", "OO", "O"], 2)
