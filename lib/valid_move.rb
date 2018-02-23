@@ -1,6 +1,6 @@
 def valid_move?(board, index)
   if board[index] 
-  returns true 
+  return true 
 end
 end
 
